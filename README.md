@@ -7,7 +7,7 @@ Ayyware for gt at this point
 
 Anyone using or selling "fixed proxy" is a human failure
 
-# By [loanselot](https://github.com/loanselot)
+# By [MoraxYT](https://github.com/MoraxYT)
 
 ## Compile and build in Visual Studio
 * Install Vcpkg  <a href="https://github.com/microsoft/vcpkg/#quick-start-windows">Click</a>
